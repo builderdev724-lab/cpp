@@ -1,4 +1,4 @@
-[[Pixel Jeff X Divoom - Pixel Jeff.gif]]
+![Pixel Jeff × Divoom](./Pixel%20Jeff%20X%20Divoom%20-%20Pixel%20Jeff.gif)
 #
 
  # C++: ZERO → GOD
